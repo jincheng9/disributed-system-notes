@@ -1,2 +1,5 @@
 # disributed-system-book-notes
-分布式系统读书笔记
+## Blog
+
+* [Ivan Velichko](https://github.com/iximiuz): Containers, K8s and Backend Development
+
