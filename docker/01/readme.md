@@ -1,8 +1,8 @@
-# Docker入门教程
+# Docker入门教程101
 
 ## 虚拟化技术
 
-虚拟化技术从1960年代诞生，到2000年左右成为技术产品开始蓬勃发展，比如著名的VMWare, VirutalBox, KVM, Docker等。
+虚拟化技术从1960年代诞生，到2000年左右成为商业产品开始蓬勃发展，比如著名的VMWare, VirutalBox, KVM, Docker等。
 
 目前大家熟知的虚拟化技术包括虚拟机(VM)和容器(Container)。
 
