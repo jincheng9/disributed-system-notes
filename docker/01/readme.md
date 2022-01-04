@@ -100,7 +100,7 @@ docker run -d -p 80:80 docker/getting-started
 
 该命令如果发现本地没有`docker/getting-started`镜像文件，会从官方的镜像仓库Docker Hub上拉取镜像并运行。
 
-`-d`: 让容器以后台模式运行。
+`-d`: 让容器进程以后台模式运行。
 
 `-p 80:80`：把主机的80端口映射到容器里的80端口。
 
