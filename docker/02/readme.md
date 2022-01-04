@@ -129,3 +129,4 @@ bin  dev   go	lib   media  opt  root	sbin  sys  usr
 ## References
 
 *  https://docs.docker.com/engine/reference/builder/ 
+*  https://eddycjy.com/posts/go/gin/2018-03-24-golang-docker/
