@@ -114,6 +114,8 @@ app  boot  etc	home  lib64  mnt  proc	run   srv  tmp	var
 bin  dev   go	lib   media  opt  root	sbin  sys  usr
 ```
 
+容器是被隔离的进程，有自己的文件系统、网络和进程树。
+
 
 
 ## 开源地址
