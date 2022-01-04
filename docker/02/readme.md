@@ -5,22 +5,22 @@
 1. Docker安装：参考我的上一篇文章[Docker入门教程101：用途，架构，安装和使用](https://github.com/jincheng9/disributed-system-notes/tree/main/docker/01)。
 2. Go项目代码准备
 
-基于golang最流行的Web框架Gin，搭建一个最简单的Web服务，大家可以下载[zip包](https://github.com/jincheng9/disributed-system-notes/archive/refs/heads/main.zip)，或者使用git下载源码：
+​	基于golang最流行的Web框架Gin，搭建一个最简单的Web服务，大家可以下载[zip包](https://github.com/jincheng9/disributed-system-notes/archive/refs/heads/main.zip)，或者使用git下载源码：
 
 ```bash
 $ git clone git@github.com:jincheng9/disributed-system-notes.git
 ```
 
-下载后，用VSCode，Goland或其它IDE打开`disributed-system-notes/docker/02/go-docker-demo`目录。
+​	下载后，用VSCode，Goland或其它IDE打开`disributed-system-notes/docker/02/go-docker-demo`目录。
 
-在该目录下执行如下2条命令，服务正常启动后，会监听8080端口
+​	在该目录下执行如下2条命令，服务正常启动后，会监听8080端口
 
 ```bash
 $ go build main.go
 $ ./main
 ```
 
-在浏览器上输入[http://localhost:8080/hello](http://localhost:8080/hello)，如果有输出如下结果，就表示一切准备就绪了。
+​	在浏览器上输入[http://localhost:8080/hello](http://localhost:8080/hello)，如果有输出如下结果，就表示一切准备就绪了。
 
 ```markdown
 {
