@@ -29,6 +29,8 @@
 
 ## Blog
 
+* [container.training](https://github.com/jpetazzo/container.training): Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
+
 * [Ivan Velichko](https://github.com/iximiuz): Containers, K8s and Backend Development
 * [Maelvls Dev Log](https://maelvls.dev/about/): K8s and Go
 * [阳明](https://www.qikqiak.com/)：k8s和istio
