@@ -8,7 +8,7 @@
 
 ## 消息中间件
 
-* [Kafka vs RocketMQ](./mq/01)
+* [Kafka vs RocketMQ选型比较](./mq/01)
 
   
 
