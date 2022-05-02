@@ -51,4 +51,10 @@
   * http://thesecretlivesofdata.com/raft/
 
 
+
+## Video
+
+* [Martin Kleppmann的youtube频道](https://www.youtube.com/channel/UClB4KPy5LkJj1t3SgYVtMOQ)
+
+
 ![](./img/wechat.png)
