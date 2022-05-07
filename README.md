@@ -42,6 +42,7 @@
 * [Martin Kleppmann](https://martin.kleppmann.com/): Author of Book "Designing Data-Intensive Applications"
 * [Werner Vogels](https://www.allthingsdistributed.com/): CTO of Amazon
 * [Martin Fowler](https://martinfowler.com/): Chief Scientist of Thoughtworks
+* [Roberto Vitillo](https://understandingdistributed.systems/): Principal Software Engineer @ Microsoft
 * [container.training](https://github.com/jpetazzo/container.training): Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes
 * [learnk8s](https://learnk8s.io/): k8s training for engineers, including courses, resources and tech blog
 * [Ivan Velichko](https://github.com/iximiuz): Containers, K8s and Backend Development
