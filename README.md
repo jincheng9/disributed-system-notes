@@ -39,6 +39,7 @@
 ## Blog
 
 * [Azure Architecture And Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/guide/)
+* [System Design Questions](https://blog.bytebytego.com/): Alex Xu - bytebytego.com
 * [Martin Kleppmann](https://martin.kleppmann.com/): Author of Book "Designing Data-Intensive Applications"
 * [Werner Vogels](https://www.allthingsdistributed.com/): CTO of Amazon
 * [Martin Fowler](https://martinfowler.com/): Chief Scientist of Thoughtworks
