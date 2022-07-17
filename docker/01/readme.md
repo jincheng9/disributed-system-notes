@@ -36,7 +36,7 @@ Docker没有严格的定义，Docker本质上是利用容器虚拟化技术，�
 
 Docker使用Go语言编写，底层实现上使用`Namespace`实现容器之间的资源隔离，使用`cgroups(Control Groups)`做资源限制。
 
-容器技术的逻辑逻辑架构如下所示：
+容器技术的逻辑架构如下所示：
 
 ![](../../img/container.png)
 
