@@ -1,4 +1,4 @@
-# disributed-system-notes
+# Learning notes for distributed systems
 
 ## 架构安全性
 
