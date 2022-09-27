@@ -16,7 +16,7 @@
 
 * [Docker入门教程101：用途，架构，安装和使用](./docker/01)
 
-* [Docker入门教程101: 基于Docker部署Go项目](./docker/02)
+* [Docker入门教程101：基于Docker部署Go项目](./docker/02)
 
 * [Docker术语解释大全](./docker/03)
 
