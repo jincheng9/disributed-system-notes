@@ -34,7 +34,9 @@
 
 * [Docker--从入门到实践 by Baohua Yang ](https://yeasy.gitbook.io/docker_practice/)
 
-* [Linux书籍](https://tldp.org/guides.html)
+* [Linux英文书籍](https://tldp.org/guides.html)
+
+* [Linux基础学习篇-中文版](https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/1.html)
 
   
 
