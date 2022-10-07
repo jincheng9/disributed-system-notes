@@ -10,7 +10,7 @@
 
 * [Kafka vs RocketMQ选型比较](./mq/01)
 
-  
+
 
 ## Docker
 
@@ -33,6 +33,8 @@
 ## Book
 
 * [Docker--从入门到实践 by Baohua Yang ](https://yeasy.gitbook.io/docker_practice/)
+
+* [Linux书籍](https://tldp.org/guides.html)
 
   
 
