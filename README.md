@@ -64,4 +64,10 @@
 * [Martin Kleppmann的youtube频道](https://www.youtube.com/channel/UClB4KPy5LkJj1t3SgYVtMOQ)
 
 
+
+## News
+
+* [Alex Xu's System Design Questions](https://twitter.com/alexxubyte)
+
+
 ![](./img/wechat.png)
