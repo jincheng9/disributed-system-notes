@@ -50,6 +50,7 @@
 * [Roberto Vitillo](https://understandingdistributed.systems/): Principal Software Engineer @ Microsoft
 * [container.training](https://github.com/jpetazzo/container.training): Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes
 * [learnk8s](https://learnk8s.io/): k8s training for engineers, including courses, resources and tech blog
+* [k8s中文教程](https://kuboard.cn/learning/)
 * [Ivan Velichko](https://github.com/iximiuz): Containers, K8s and Backend Development
 * [Maelvls Dev Log](https://maelvls.dev/about/): k8s and Go
 * [阳明](https://www.qikqiak.com/)：k8s and istio
