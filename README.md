@@ -10,7 +10,7 @@
 
 * [Kafka vs RocketMQ选型比较](./mq/01)
 
-  
+
 
 ## Docker
 
@@ -36,6 +36,10 @@
 
 * [Docker--从入门到实践 by Baohua Yang ](https://yeasy.gitbook.io/docker_practice/)
 
+* [Linux英文书籍](https://tldp.org/guides.html)
+
+* [Linux基础学习篇-中文版](https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/1.html)
+
   
 
 ## Blog
@@ -48,6 +52,7 @@
 * [Roberto Vitillo](https://understandingdistributed.systems/): Principal Software Engineer @ Microsoft
 * [container.training](https://github.com/jpetazzo/container.training): Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes
 * [learnk8s](https://learnk8s.io/): k8s training for engineers, including courses, resources and tech blog
+* [k8s中文教程](https://kuboard.cn/learning/)
 * [Ivan Velichko](https://github.com/iximiuz): Containers, K8s and Backend Development
 * [Maelvls Dev Log](https://maelvls.dev/about/): k8s and Go
 * [阳明](https://www.qikqiak.com/)：k8s and istio
@@ -60,6 +65,12 @@
 ## Video
 
 * [Martin Kleppmann的youtube频道](https://www.youtube.com/channel/UClB4KPy5LkJj1t3SgYVtMOQ)
+
+
+
+## News
+
+* [Alex Xu's System Design Questions](https://twitter.com/alexxubyte)
 
 
 ![](./img/wechat.png)
