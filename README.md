@@ -22,6 +22,8 @@
 
 * [Docker命令手册](./docker/04)
 
+* [docker compose部署superset](./docker/05)
+
   
 
 ## K8s
