@@ -11,7 +11,32 @@
   ```
 
 * 第二步：给创建的superset用户sudo权限，且执行sudo命令时不用输入密码。
-* 
+
+  * 方法1：编辑修改/etc/sudoers文件
+
+    在文件中找到类似 `root ALL=(ALL) ALL` 的行，下面添加一行为 `superset` 用户配置 sudo 权限：
+
+    ```bash
+    superset ALL=(ALL) NOPASSWD:ALL
+    ```
+
+  * 方法2：在 /etc/sudoers.d/ 下创建文件
+
+    1. 以 root 用户或具有 sudo 权限的用户登录。
+
+    2. 创建一个新文件，以 `superset` 为例（文件名可以任意，只要没有特殊字符，推荐使用用户名简单易懂）：
+
+       ```bash
+       sudo visudo -f /etc/sudoers.d/superset
+       ```
+
+    3. 在打开的文件中添加以下内容：
+
+       ```bash
+       superset ALL=(ALL) NOPASSWD:ALL
+       ```
+
+    4. 保存并关闭编辑器。
 
 * 第三步：下载代码：可以在部署的服务器上直接git clone或者GitHub下载后上传到服务器指定目录
 
@@ -223,5 +248,5 @@ docker compose -f docker-copose-image-tag.yml up -d
 
 ## References
 
-*  https://docs.docker.com/engine/reference/builder/ 
-*  https://eddycjy.com/posts/go/gin/2018-03-24-golang-docker/
+*  https://superset.apache.org/docs/installation/docker-compose
+*  https://superset.apache.org/docs/configuration/databases#clickhouse
