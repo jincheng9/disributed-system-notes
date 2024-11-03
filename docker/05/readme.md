@@ -2,7 +2,7 @@
 
 ## 部署说明
 
-本说明文档针对的是cenos 7.9版本。
+本说明文档针对的是cenos 7.9版本，官方文档地址：https://superset.apache.org/docs/installation/docker-compose
 
 * 第一步：创建一个用户来部署superset，例如用户名就叫superset。
 
